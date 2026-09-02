@@ -1,2 +1,2 @@
 # VTU-Major-Project
-Indoor Outdoor AQI Control System Using ML
+Indoor Outdoor Air Quality Control System Using Machine Learning
